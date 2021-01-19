@@ -1,0 +1,8 @@
+# github.com/iTrellis/go-common v0.21.0
+github.com/iTrellis/go-common/formats
+# golang.org/x/text v0.3.5
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/transform

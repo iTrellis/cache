@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/iTrellis/go-cache"
+	"github.com/iTrellis/cache"
 )
 
 var table1 = "tab1"

@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iTrellis/go-common/formats"
+	"github.com/iTrellis/common/formats"
 )
 
 type gemCache struct {

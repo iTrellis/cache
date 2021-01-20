@@ -1,14 +1,14 @@
 # cache
 light cache in go 
 
-* [![GoDoc](http://godoc.org/github.com/iTrellis/go-cache?status.svg)](http://godoc.org/github.com/iTrellis/go-cache)
+* [![GoDoc](http://godoc.org/github.com/iTrellis/cache?status.svg)](http://godoc.org/github.com/iTrellis/cache)
 
 ## Introduction
 
 ### Installation
 
 ```shell
-go get "github.com/iTrellis/go-cache"
+go get "github.com/iTrellis/cache"
 ```
 
 ### Features

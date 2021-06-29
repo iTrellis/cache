@@ -134,6 +134,7 @@ func (p *LRU) InsertExpire(key, value interface{}, expire time.Duration) bool {
 	}
 
 	if ok {
+		entry.Value = dv
 		p.evictList.MoveToFront(entry)
 	} else {
 		entry = p.evictList.PushFront(dv)

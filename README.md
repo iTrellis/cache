@@ -1,6 +1,9 @@
 # cache
 light cache in go 
 
+Move It into the github.com/iTrellis/common, this repo achieved!
+
+
 * [![GoDoc](http://godoc.org/github.com/iTrellis/cache?status.svg)](http://godoc.org/github.com/iTrellis/cache)
 
 ## Introduction
